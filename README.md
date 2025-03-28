@@ -29,8 +29,8 @@ This project provides an API interface for video software, sourcing video conten
 
 ```
 project-root/
-├── config/        # 配置文件 / Configuration Files
-├── src/           # 主代码文件 / Main Code Files
+├── lib/        # 配置文件 / Configuration Files
+  ├── config_open.json
 └── README.md      # 项目说明文档 / Project Documentation
 ```
 
