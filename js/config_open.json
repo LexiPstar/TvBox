@@ -26,14 +26,14 @@
         "name": "🟢 玩偶",
         "type": 3,
         "api": "./wogg_open.js",
-        "ext": "fbc55bb9cdc146039689ad38755a3cd3"
+        "ext": "***"
       },
       {
         "key": "玩偶表哥",
         "name": "🟢 表哥",
         "type": 3,
         "api": "./wobg_open.js",
-        "ext": "fbc55bb9cdc146039689ad38755a3cd3"
+        "ext": "***"
       },
       {
         "key": "耐看",
@@ -477,7 +477,7 @@
         "type": 4,
         "api": "./push_open.js",
         "ext": {
-          "token": "fbc55bb9cdc146039689ad38755a3cd3",
+          "token": "**",
           "cookie": "夸克cookie"
         }
       },
@@ -486,56 +486,56 @@
         "name": "🔍 盘寻",
         "type": 3,
         "api": "./pansearch_open.js",
-        "ext": "fbc55bb9cdc146039689ad38755a3cd3"
+        "ext": "**"
       },
       {
         "key": "阿里盘搜",
         "name": "🔍 盘搜",
         "type": 3,
         "api": "./pansou_open.js",
-        "ext": "fbc55bb9cdc146039689ad38755a3cd3"
+        "ext": "***"
       },
       {
         "key": "阿里七夜",
         "name": "🔍 七夜",
         "type": 3,
         "api": "./dovx_open.js",
-        "ext": "fbc55bb9cdc146039689ad38755a3cd3"
+        "ext": "***"
       },
       {
         "key": "小纸条",
         "name": "🔍 纸条",
         "type": 3,
         "api": "./xiaozhitiao_open.js",
-        "ext": "fbc55bb9cdc146039689ad38755a3cd3"
+        "ext": "***"
       },
       {
         "key": "UP云搜",
         "name": "🔍 云搜",
         "type": 3,
         "api": "./upyun_open.js",
-        "ext": "fbc55bb9cdc146039689ad38755a3cd3"
+        "ext": "***"
       },
       {
         "key": "易搜",
         "name": "🔍 易搜",
         "type": 3,
         "api": "./yiso_open.js",
-        "ext": "fbc55bb9cdc146039689ad38755a3cd3$$$易搜账号cookie"
+        "ext": "***$$$易搜账号cookie"
       },
       {
         "key": "云盘4K",
         "name": "🔍 云盘",
         "type": 3,
         "api": "./yunpan4k_open.js",
-        "ext": "fbc55bb9cdc146039689ad38755a3cd3"
+        "ext": "***"
       },
       {
         "key": "找资源",
         "name": "🔍 资源",
         "type": 3,
         "api": "./zhaozy_open.js",
-        "ext": "fbc55bb9cdc146039689ad38755a3cd3$$$找资源账号$$$找资源密码"
+        "ext": "***$$$找资源账号$$$找资源密码"
       },
       {
         "key": "夸克趣盘搜",
